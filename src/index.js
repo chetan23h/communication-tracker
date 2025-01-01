@@ -6,7 +6,9 @@ import { CommunicationProvider } from './contexts/CommunicationContext';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
+  <>
   <CommunicationProvider>
     <App />
   </CommunicationProvider>
+  </>
 );
