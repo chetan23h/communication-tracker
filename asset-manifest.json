@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/communication-tracker/static/css/main.57960ba5.css",
+    "main.js": "/communication-tracker/static/js/main.8df76ded.js",
+    "index.html": "/communication-tracker/index.html",
+    "main.57960ba5.css.map": "/communication-tracker/static/css/main.57960ba5.css.map",
+    "main.8df76ded.js.map": "/communication-tracker/static/js/main.8df76ded.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57960ba5.css",
+    "static/js/main.8df76ded.js"
+  ]
+}
