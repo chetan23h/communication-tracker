@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/communication-tracker/static/css/main.57960ba5.css",
-    "main.js": "/communication-tracker/static/js/main.ec7f6ca3.js",
+    "main.js": "/communication-tracker/static/js/main.afbcc329.js",
     "index.html": "/communication-tracker/index.html",
     "main.57960ba5.css.map": "/communication-tracker/static/css/main.57960ba5.css.map",
-    "main.ec7f6ca3.js.map": "/communication-tracker/static/js/main.ec7f6ca3.js.map"
+    "main.afbcc329.js.map": "/communication-tracker/static/js/main.afbcc329.js.map"
   },
   "entrypoints": [
     "static/css/main.57960ba5.css",
-    "static/js/main.ec7f6ca3.js"
+    "static/js/main.afbcc329.js"
   ]
 }
