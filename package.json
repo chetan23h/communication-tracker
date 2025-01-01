@@ -2,6 +2,7 @@
   "name": "calender-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chetan23h.github.io/communication-tracker",
   "dependencies": {
     "@fullcalendar/daygrid": "^6.1.15",
     "@fullcalendar/interaction": "^6.1.15",
@@ -19,7 +20,6 @@
     "uuid": "^11.0.3",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "https://chetan23h.github.io/calendar-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
